@@ -1,4 +1,4 @@
---upgrade pip
+pip>=24.1
 altair==5.5.0
 attrs==25.3.0
 backports.zoneinfo==0.2.1
